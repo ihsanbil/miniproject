@@ -16,6 +16,7 @@ body {
     gap: 30px;
     flex-direction: column;
     overflow: hidden; /* Menghindari scroll */
+    text-align: center; /* Teks akan terpusat di seluruh halaman */
 }
 
 /* Logo */
